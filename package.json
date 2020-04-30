@@ -21,7 +21,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start",
     "predeploy": "react-scripts build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "author": "Parth Parmar",
   "license": "ISC",
