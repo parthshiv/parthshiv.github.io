@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://parthshiv.github.io/static/js/main.baeeb30e.chunk.js",
+    "main.js.map": "https://parthshiv.github.io/static/js/main.baeeb30e.chunk.js.map",
+    "runtime-main.js": "https://parthshiv.github.io/static/js/runtime-main.389d2a2e.js",
+    "runtime-main.js.map": "https://parthshiv.github.io/static/js/runtime-main.389d2a2e.js.map",
+    "static/js/2.ff8bd651.chunk.js": "https://parthshiv.github.io/static/js/2.ff8bd651.chunk.js",
+    "static/js/2.ff8bd651.chunk.js.map": "https://parthshiv.github.io/static/js/2.ff8bd651.chunk.js.map",
+    "index.html": "https://parthshiv.github.io/index.html",
+    "precache-manifest.00ba68c34edff9cdd348cab7df69568e.js": "https://parthshiv.github.io/precache-manifest.00ba68c34edff9cdd348cab7df69568e.js",
+    "service-worker.js": "https://parthshiv.github.io/service-worker.js",
+    "static/js/2.ff8bd651.chunk.js.LICENSE.txt": "https://parthshiv.github.io/static/js/2.ff8bd651.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.389d2a2e.js",
+    "static/js/2.ff8bd651.chunk.js",
+    "static/js/main.baeeb30e.chunk.js"
+  ]
+}
