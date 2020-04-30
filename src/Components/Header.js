@@ -12,7 +12,7 @@ class Header extends Component {
           <div className="d-flex flex-column">
             <div className="profile">
               <img
-                src="/public/assets/img/profile-img.jpg"
+                src="/assets/img/profile-img.jpg"
                 alt=""
                 className="img-fluid rounded-circle"
               />
