@@ -17,7 +17,7 @@ class Maincontent extends Component {
               <h3>I Love <span className="typewrite" data-period="2000"
                     data-type='["Web Design.", "Web Development.",  "Creativity." ]'>
                     <span className="wrap"></span>
-                  </span><p className="HeroP">I am a Freelance Full Stack Web Developer. Creating an Awesome website is my passion. </p></h3>
+                  </span><p className="HeroP">I am a Freelance Full Stack Web Developer. Creating an Awesome website is my Passion. </p></h3>
 
               
             </div>
