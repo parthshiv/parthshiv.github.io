@@ -1,4 +1,4 @@
-#View the Web Page
+## View the Web Page
 Open the url in browser: http://parthshiv.github.io
 
 ## Details
